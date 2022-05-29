@@ -13,5 +13,5 @@
   <DesiredZoomMin>1.5</DesiredZoomMin>
   <DesiredZoomMax>40</DesiredZoomMax>
   <DesiredFov>0.78</DesiredFov>
-  <OffsetUpdateLocation>https://raw.githubusercontent.com/itsurea/FFXIV-Zoom-Hack/master/Offsets.xml</OffsetUpdateLocation>
+  <OffsetUpdateLocation>https://raw.githubusercontent.com/Terrichan/FFXIV_Zoom_Hack/master/Settings.xml</OffsetUpdateLocation>
 </Root>
