@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Root>
+  <DX11>
+    <StructureAddress>1E71C80</StructureAddress>
+    <ZoomCurrent>114</ZoomCurrent>
+    <ZoomMin>118</ZoomMin>
+    <ZoomMax>11C</ZoomMax>
+    <FovCurrent>120</FovCurrent>
+    <FovMax>128</FovMax>
+  </DX11>
+  <LastUpdate>2021-05-22 - patch 5.4 hotfix (DX11, DX9)</LastUpdate>
+  <AutoApply>True</AutoApply>
+  <DesiredZoomMin>1.5</DesiredZoomMin>
+  <DesiredZoomMax>40</DesiredZoomMax>
+  <DesiredFov>0.78</DesiredFov>
+  <OffsetUpdateLocation>https://raw.githubusercontent.com/itsurea/FFXIV-Zoom-Hack/master/Offsets.xml</OffsetUpdateLocation>
+</Root>
